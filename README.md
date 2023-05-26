@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @salonim1
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Leraning and Data Structures
+- 💞️ I’m looking to collaborate on Machine and Deep learning projects
+- 📫 How to reach me https://www.linkedin.com/in/saloni-nimgaonkar-622bb0240/
